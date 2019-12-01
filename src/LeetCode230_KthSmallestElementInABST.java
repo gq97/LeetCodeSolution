@@ -1,12 +1,3 @@
-/*
- * Definition for a binary tree node.
- */
-class TreeNode {
-      int val;
-      TreeNode left;
-      TreeNode right;
-}
-
 
 public class LeetCode230_KthSmallestElementInABST {
     // A better idea is to use inorder travel
